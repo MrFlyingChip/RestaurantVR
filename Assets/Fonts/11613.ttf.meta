@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ff5ccee02138cc248b420dde099ca97a
+timeCreated: 1523700809
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cuphead Memphis
+  fontNames:
+  - Cuphead Memphis
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
