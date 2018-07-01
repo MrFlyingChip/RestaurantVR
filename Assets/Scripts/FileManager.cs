@@ -8,7 +8,7 @@ public static class FileManager
 {
     public static RestaurantList ReadAllRestaurants()
     {
-        string filePath = "DB/Restaurants.xml".Replace(".xml", "");
+        string filePath = "DB/Restaurants";
         TextAsset targetFile = Resources.Load<TextAsset>(filePath);
         XmlSerializer ser = new XmlSerializer(typeof(RestaurantList));
         RestaurantList restaurants = new RestaurantList();
